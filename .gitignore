@@ -1,0 +1,8 @@
+# this file is used for isolated feature testing, no need to push to github.
+test.cpp
+
+# this is the build output, do not track in github
+*.o
+
+# vscode settings folder
+.vscode
